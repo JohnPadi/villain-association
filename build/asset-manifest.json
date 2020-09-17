@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/villain-association/static/css/main.e400e155.chunk.css",
+    "main.js": "/villain-association/static/js/main.9dcebb60.chunk.js",
+    "main.js.map": "/villain-association/static/js/main.9dcebb60.chunk.js.map",
+    "runtime-main.js": "/villain-association/static/js/runtime-main.61df6349.js",
+    "runtime-main.js.map": "/villain-association/static/js/runtime-main.61df6349.js.map",
+    "static/js/2.39b141dd.chunk.js": "/villain-association/static/js/2.39b141dd.chunk.js",
+    "static/js/2.39b141dd.chunk.js.map": "/villain-association/static/js/2.39b141dd.chunk.js.map",
+    "index.html": "/villain-association/index.html",
+    "precache-manifest.1c905ef81f749f73054a89973ef22d8b.js": "/villain-association/precache-manifest.1c905ef81f749f73054a89973ef22d8b.js",
+    "service-worker.js": "/villain-association/service-worker.js",
+    "static/css/main.e400e155.chunk.css.map": "/villain-association/static/css/main.e400e155.chunk.css.map",
+    "static/js/2.39b141dd.chunk.js.LICENSE.txt": "/villain-association/static/js/2.39b141dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61df6349.js",
+    "static/js/2.39b141dd.chunk.js",
+    "static/css/main.e400e155.chunk.css",
+    "static/js/main.9dcebb60.chunk.js"
+  ]
+}
